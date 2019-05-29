@@ -1,2 +1,2 @@
 # hello-world
-Just tryitng this amazing tool 
+Just trying this amazing tool 
